@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codeBlock/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/codeBlock/static/js/main.1a69827e.chunk.js",
+    "main.js.map": "/codeBlock/static/js/main.1a69827e.chunk.js.map",
+    "runtime-main.js": "/codeBlock/static/js/runtime-main.7c95df88.js",
+    "runtime-main.js.map": "/codeBlock/static/js/runtime-main.7c95df88.js.map",
+    "static/js/2.3d236bbc.chunk.js": "/codeBlock/static/js/2.3d236bbc.chunk.js",
+    "static/js/2.3d236bbc.chunk.js.map": "/codeBlock/static/js/2.3d236bbc.chunk.js.map",
+    "static/js/3.312ca349.chunk.js": "/codeBlock/static/js/3.312ca349.chunk.js",
+    "static/js/3.312ca349.chunk.js.map": "/codeBlock/static/js/3.312ca349.chunk.js.map",
+    "index.html": "/codeBlock/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/codeBlock/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3d236bbc.chunk.js.LICENSE.txt": "/codeBlock/static/js/2.3d236bbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c95df88.js",
+    "static/js/2.3d236bbc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1a69827e.chunk.js"
+  ]
+}
